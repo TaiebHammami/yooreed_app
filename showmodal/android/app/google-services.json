@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941337733481",
+    "project_id": "yooreed-82fad",
+    "storage_bucket": "yooreed-82fad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941337733481:android:113c09587f6003855e75f8",
+        "android_client_info": {
+          "package_name": "com.example.showmodal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941337733481-bp86akegkteafhnv0nprqr2sg8uahqin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqMpElkQtl_sDobVueD7imbQ-mu9J5eyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941337733481-bp86akegkteafhnv0nprqr2sg8uahqin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
